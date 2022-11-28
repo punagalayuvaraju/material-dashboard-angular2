@@ -23,7 +23,9 @@
             "styles": [
               "node_modules/perfect-scrollbar/css/perfect-scrollbar.css",
               "src/assets/scss/material-dashboard.scss",
-              "src/assets/css/demo.css"
+              "src/assets/css/demo.css",
+              "ag-grid-community/dist/styles/ag-theme-alpine.css",
+              "ag-grid-community/dist/styles/ag-grid.css"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.js",
